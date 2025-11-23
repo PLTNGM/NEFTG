@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-    background-image: url('../img/AAC7XJN9cc.jpg');
+    background-image: url('img/AAC7XJN9cc.jpg');
     background-attachment: fixed;  /* ✅ Ключевое свойство */
     background-size: cover;        /* Растянуть на весь экран */
     background-position: center;   /* Центрировать */
@@ -322,3 +322,4 @@ align-items: center;
     }
 
 }
+
