@@ -34,10 +34,13 @@ body.small-header {
 }
 
 body.font-fallback .tg-counter p {
-    font-size: 900%;
+    font-size: 1500%;
     font-weight: 900;
     letter-spacing: -1px;
 }
+
+body.font-fallback #logo h1 {font-size: 1500%;
+    font-weight: 900;}
 
 @media (max-width: 768px) {
     body {
