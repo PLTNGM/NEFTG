@@ -18,7 +18,7 @@
 /* Akony */
 @font-face {
     font-family: "Akony";
-    src: url('fonts/AKONY.otf') format('opentype');
+    src: url('fonts/AKONY.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -32,15 +32,6 @@ body {margin-top: 200px;
 body.small-header {
     margin-top: 120px;
 }
-
-body.font-fallback .tg-counter p {
-    font-size: 2000%;
-    font-weight: 900;
-    letter-spacing: -1px;
-}
-
-body.font-fallback #logo h1 {font-size: 2000%;
-    font-weight: 900;}
 
 @media (max-width: 768px) {
     body {
