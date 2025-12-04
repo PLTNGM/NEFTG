@@ -5,4 +5,8 @@
 
 Всё, от дизайна до подключения к хосту было выполнено мной.
 
-Скрины сайта:
+Скрины сайта: 
+
+дизайн:
+<img width="476" height="724" alt="image" src="https://github.com/user-attachments/assets/fdd7f532-b0c7-4228-ac4d-e47b1b277421" />
+
