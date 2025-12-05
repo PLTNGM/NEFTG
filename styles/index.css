@@ -150,11 +150,11 @@ font-family: "Haettenschweiler", sans-serif;
 
 header.small #logo h1 {
 font-size: 190% !important;
-font-weight: 900;}
+font-weight: 900;
+font-family: "Haettenschweiler", sans-serif;}
 
 #logo p {
 font-size: 69%;}
-
 
 header.small #logo p {
     font-size: 51% !important;
@@ -480,7 +480,9 @@ footer h3 {display: flex;
         font-size: 120%;}
 
 @media (max-width: 768px) {
-    footer {height: 200px;}
+    footer {height: auto;
+        margin-top: -12%;
+        padding: 20px 0;}
 
     footer #thx {font-size: 100%; margin-top: 2%;}
     footer #gr #p1 {width: 175px;
@@ -494,10 +496,10 @@ footer h3 {display: flex;
 
 #socials {position: relative;
     margin-top: 5%;
-    gap: -15px;
+    gap: 15px;
     }
 
-#socials a img {width: 60%;
+#socials a img {width: 50px;
 }
 
 footer h3 {font-size: 80%;}
