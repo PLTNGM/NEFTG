@@ -142,13 +142,15 @@ header.small #logo p {
 #logo a {text-decoration: none;}
 
 #logo h1 {
-font-size: 190%;
+font-size: 230%;
+font-weight: 900;
 font-family: "Haettenschweiler", sans-serif;
 }
 
 
 header.small #logo h1 {
-font-size: 140% !important;}
+font-size: 190% !important;
+font-weight: 900;}
 
 #logo p {
 font-size: 69%;}
@@ -326,9 +328,9 @@ header.small #navig a:hover, #navig a:hover {color:#ffffff}
 
         @media (max-width: 768px) {
             .tg-counter {margin-top: 1%;}
-            .tg-counter p {font-size: 170%; font-family: "Haettenschweiler", sans-serif; }
-            .count {font-size: 300%; font-family: "Haettenschweiler", sans-serif; font-weight: 900;}
-            #sps {font-size: 100%; font-family: "Haettenschweiler", sans-serif; margin-right: 10%; font-weight: 900; margin-top: -3%;}
+            .tg-counter p {font-size: 250%; font-family: "Haettenschweiler", sans-serif; }
+            .count {font-size: 350%; font-family: "Haettenschweiler", sans-serif; font-weight: 900;}
+            #sps {font-size: 100%; font-family: "Haettenschweiler", sans-serif; margin-right: 6%; font-weight: 900; margin-top: -3%;}
             .modern-line {width: 200px; margin-top: 5%;}
         }
         /* заголовок */
