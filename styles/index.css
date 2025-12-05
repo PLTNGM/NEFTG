@@ -374,7 +374,7 @@ header.small #navig a:hover, #navig a:hover {color:#ffffff}
     padding: 50px;
     margin: 50px auto;
     max-width: 1400px;
-    margin-top: -1%;
+    margin-top: 3%;
 }
 
 /* Треугольник в левом верхнем углу */
@@ -441,7 +441,7 @@ footer {background: #1E1E1E;
     width: 100%;
     max-width: 1920px;
     height: 250px;
-    margin-top: -13%;}
+    margin-top: -3%;}
 
 footer #thx {color: #B82C2C;
 text-align: center;
@@ -481,7 +481,7 @@ footer h3 {display: flex;
 
 @media (max-width: 768px) {
     footer {height: auto;
-        margin-top: -12%;
+        margin-top: -13%;
         padding: 20px 0;}
 
     footer #thx {font-size: 100%; margin-top: 2%;}
