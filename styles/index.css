@@ -350,8 +350,8 @@ header.small #navig a:hover, #navig a:hover {color:#ffffff}
 
         @media (max-width: 768px) {
             .tg-counter {margin-top: 1%;}
-            .tg-counter p {font-size: 250%;}
-            .count {font-size: 420%; font-weight: 900;}
+            .tg-counter p {font-size: 220%;}
+            .count {font-size: 290%; font-weight: 900;}
             #sps {font-size: 100%;margin-right: 3%; font-weight: 400; margin-top: -2%;}
             .modern-line {width: 200px; margin-top: 5%;}
                 @keyframes pulse-mobile {
